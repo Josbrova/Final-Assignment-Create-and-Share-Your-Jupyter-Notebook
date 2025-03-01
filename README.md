@@ -3,7 +3,6 @@
 Jupyter_Notebook.ipynb
 
 Final Assignment:
-- Screenshots
 - DataScienceEcosystem.ipynb
 - Jupyter_Notebook.ipynb
 
